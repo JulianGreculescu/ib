@@ -1,0 +1,28 @@
+[ {
+  "accountNumber" : "123-456-001",
+  "accountName" : "Savings 001",
+  "valueDate" : "2020-02-01",
+  "currency" : "AUD",
+  "debitAmount" : null,
+  "creditAmount" : 1146.32,
+  "amountType" : "credit",
+  "narrative" : "Barry Plant rent"
+}, {
+  "accountNumber" : "123-456-001",
+  "accountName" : "Savings 001",
+  "valueDate" : "2020-02-01",
+  "currency" : "AUD",
+  "debitAmount" : 269.11,
+  "creditAmount" : null,
+  "amountType" : "debit",
+  "narrative" : "WOOLWORTHS 3055CASH OUT $200.00"
+}, {
+  "accountNumber" : "123-456-001",
+  "accountName" : "Savings 001",
+  "valueDate" : "2020-02-01",
+  "currency" : "AUD",
+  "debitAmount" : 37.74,
+  "creditAmount" : null,
+  "amountType" : "debit",
+  "narrative" : "Miscellaneous debit"
+} ]

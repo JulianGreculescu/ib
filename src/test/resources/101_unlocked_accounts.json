@@ -1,0 +1,17 @@
+[ {
+  "userId" : 101,
+  "accountNumber" : "123-456-001",
+  "accountName" : "Savings 001",
+  "accountType" : "Savings",
+  "balanceDate" : "2020-02-01",
+  "currency" : "AUD",
+  "openingAvailableBalance" : 1000.01
+}, {
+  "userId" : 101,
+  "accountNumber" : "123-456-002",
+  "accountName" : "Current 002",
+  "accountType" : "Current",
+  "balanceDate" : "2020-02-01",
+  "currency" : "SGD",
+  "openingAvailableBalance" : 2000.02
+} ]
