@@ -23,5 +23,5 @@ class TransactionTest {
     void shouldCorrectlyEvaluateTransactionType() {
         assertEquals("credit", new Transaction(1, 901, LocalDateTime.now(), BigInteger.valueOf(12345), "My coffee").getTransactionType());
         assertEquals("debit", new Transaction(1, 901, LocalDateTime.now(), BigInteger.valueOf(-12345), "My coffee").getTransactionType());
-        assertNull(new Transaction(1, 901, LocalDateTime.now(), BigInteger.valueOf(12345), "My coffee").getTransactionType());    }
+        assertNull(new Transaction(1, 901, LocalDateTime.now(), BigInteger.valueOf(0), "My coffee").getTransactionType());    }
 }
