@@ -1,4 +1,4 @@
-# address-book
+# internet-banking
 #### Introduction
 This is a spring boot application to facilitate fetching accounts summary and transaction history data for a given user
 #### High level how it works
